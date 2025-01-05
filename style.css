@@ -1,0 +1,27 @@
+h1{
+    color: rgb(183, 0, 255);
+    text-align: center;
+}
+ul{
+    font-family: "Josefin Sans", serif;
+    font-size: x-large;
+    font-weight: 900;
+}
+p{
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-size: larger;
+}
+
+footer{
+    text-align: right;
+    font-family: "Grey Qo", serif;
+    font-weight: 400;
+}
+
+span{
+    font-family: "Sour Gummy", serif;
+}
+img{
+    
+}
